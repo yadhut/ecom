@@ -6,7 +6,7 @@ class CreateHotels < ActiveRecord::Migration[7.2]
       t.string :pin_code, null: false
       t.string :category, null: false
       t.string :status, default: 'available'
-
+      t.references :room
       t.timestamps
     end
   end
