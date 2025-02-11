@@ -1,0 +1,5 @@
+rules:
+  pass:
+    - /identity/new
+    - /identity/session/new
+  block:
