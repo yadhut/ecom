@@ -207,7 +207,7 @@ GEM
     rake (13.2.1)
     rdoc (6.10.0)
       psych (>= 4.0.0)
-    redis (5.3.0)
+    redis (5.4.0)
       redis-client (>= 0.22.0)
     redis-actionpack (5.5.0)
       actionpack (>= 5)
@@ -216,7 +216,7 @@ GEM
     redis-activesupport (5.3.0)
       activesupport (>= 3, < 8)
       redis-store (>= 1.3, < 2)
-    redis-client (0.23.1)
+    redis-client (0.23.2)
       connection_pool
     redis-rack (3.0.0)
       rack-session (>= 0.2.0)
