@@ -24,7 +24,7 @@ gem "jbuilder"
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
-gem 'rack-cors', '~> 1.0.2'
+gem 'rack-cors', '~> 2.0.2'
 gem 'bcrypt', '~> 3.1.7'
 gem 'redis'
 gem 'hiredis'
